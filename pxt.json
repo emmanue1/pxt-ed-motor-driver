@@ -1,0 +1,22 @@
+{
+    "name": "ed-motor-driver",
+    "version": "1.0.0",
+    "description": "A Microsoft MakeCode package for driving the Grove I2C Motor Driver Board.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ]
+}

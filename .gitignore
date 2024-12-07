@@ -1,0 +1,11 @@
+# MakeCode
+.pxt
+.vscode
+built
+node_modules
+projects
+pxt_modules
+package-lock.json
+*.db
+*.tgz
+*.txt
